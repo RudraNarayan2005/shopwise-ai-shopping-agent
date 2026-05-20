@@ -107,15 +107,11 @@ I want a backpack for college and laptop use.
 
 ## Demo Video
 
-Add your YouTube unlisted or Google Drive demo video link here before submission:
-
 ```text
 Demo video: https://drive.google.com/file/d/1Tw18RKi_ZOilHvz5-BGaP0-e38NQz_Ah/view?usp=sharing
 ```
 
 ## Screenshots
-
-Add screenshots in:
 
 ```text
 assets/screenshots/demo-chat.png
