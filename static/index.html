@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ShopWise Agent</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="chat-panel">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Track 1</p>
+            <h1>ShopWise Agent</h1>
+          </div>
+          <div class="status-pill">Catalog online</div>
+        </header>
+
+        <div id="messages" class="messages" aria-live="polite">
+          <article class="message assistant">
+            <div class="bubble">
+              <p>Tell me what you want to buy, your budget, and who it is for. I will ask follow-up questions, compare options, and recommend the best match.</p>
+            </div>
+          </article>
+        </div>
+
+        <form id="chatForm" class="composer">
+          <input
+            id="messageInput"
+            name="message"
+            type="text"
+            autocomplete="off"
+            placeholder="Example: running shoes under 5000 for daily jogging"
+            required
+          >
+          <button type="submit">Send</button>
+        </form>
+      </section>
+
+      <aside class="catalog-panel">
+        <div class="panel-heading">
+          <p class="eyebrow">Live catalog</p>
+          <h2>Recommended products</h2>
+        </div>
+        <div id="productList" class="product-list"></div>
+      </aside>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

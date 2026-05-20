@@ -1,0 +1,110 @@
+[
+  {
+    "id": "shoe-001",
+    "name": "AeroRun Daily Trainers",
+    "category": "Shoes",
+    "price": 3999,
+    "rating": 4.6,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "benefit": "offers lightweight cushioning for daily jogging and walking.",
+    "tags": ["lightweight", "running", "comfortable"],
+    "use_cases": ["daily use", "fitness", "budget"]
+  },
+  {
+    "id": "shoe-002",
+    "name": "TrailFlex Grip Shoes",
+    "category": "Shoes",
+    "price": 5499,
+    "rating": 4.5,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+    "benefit": "gives stronger grip and support for rougher outdoor surfaces.",
+    "tags": ["outdoor", "grip", "durable"],
+    "use_cases": ["travel", "fitness"]
+  },
+  {
+    "id": "head-001",
+    "name": "QuietWave ANC Headphones",
+    "category": "Headphones",
+    "price": 4499,
+    "rating": 4.7,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "benefit": "blocks noise well and is comfortable for long travel or study sessions.",
+    "tags": ["noise", "travel", "wireless"],
+    "use_cases": ["travel", "college", "work"]
+  },
+  {
+    "id": "head-002",
+    "name": "BassBud Lite Earphones",
+    "category": "Headphones",
+    "price": 1799,
+    "rating": 4.3,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=900&q=80",
+    "benefit": "keeps the price low while still giving good sound for daily listening.",
+    "tags": ["budget", "compact", "wireless"],
+    "use_cases": ["daily use", "college", "budget"]
+  },
+  {
+    "id": "bag-001",
+    "name": "CampusPro Laptop Backpack",
+    "category": "Backpacks",
+    "price": 2499,
+    "rating": 4.6,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "benefit": "fits a laptop, books, charger, bottle, and daily college essentials.",
+    "tags": ["laptop", "college", "water resistant"],
+    "use_cases": ["college", "daily use", "work", "budget"]
+  },
+  {
+    "id": "bag-002",
+    "name": "RoamSafe Travel Backpack",
+    "category": "Backpacks",
+    "price": 4299,
+    "rating": 4.8,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=900&q=80",
+    "benefit": "adds extra compartments, anti-theft pockets, and travel-friendly storage.",
+    "tags": ["travel", "anti-theft", "durable"],
+    "use_cases": ["travel", "work"]
+  },
+  {
+    "id": "skin-001",
+    "name": "GlowCare Hydration Kit",
+    "category": "Skincare",
+    "price": 2299,
+    "rating": 4.5,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=80",
+    "benefit": "makes a simple gift kit with cleanser, moisturizer, and serum.",
+    "tags": ["gift", "hydration", "skincare"],
+    "use_cases": ["gift", "daily use", "budget"]
+  },
+  {
+    "id": "watch-001",
+    "name": "FitPulse Smartwatch",
+    "category": "Smartwatch",
+    "price": 3499,
+    "rating": 4.4,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "benefit": "tracks steps, heart rate, workouts, and phone notifications.",
+    "tags": ["fitness", "health", "notifications"],
+    "use_cases": ["fitness", "daily use", "gift"]
+  },
+  {
+    "id": "home-001",
+    "name": "LumaDesk Study Lamp",
+    "category": "Home",
+    "price": 1499,
+    "rating": 4.4,
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+    "benefit": "improves desk lighting with adjustable brightness for study or work.",
+    "tags": ["study", "desk", "home"],
+    "use_cases": ["college", "work", "budget"]
+  }
+]
