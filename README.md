@@ -93,3 +93,30 @@ python app.py
 ```text
 http://127.0.0.1:5000
 ```
+
+## Demo Script
+
+Try these prompts:
+
+```text
+I need running shoes under 5000 for daily jogging.
+Suggest a gift for my mother under 3000.
+Compare the best headphones for travel.
+I want a backpack for college and laptop use.
+```
+
+## Demo Video
+
+Add your YouTube unlisted or Google Drive demo video link here before submission:
+
+```text
+Demo video: https://drive.google.com/file/d/1Tw18RKi_ZOilHvz5-BGaP0-e38NQz_Ah/view?usp=sharing
+```
+
+## Screenshots
+
+Add screenshots in:
+
+```text
+assets/screenshots/demo-chat.png
+```
